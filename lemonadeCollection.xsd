@@ -16,12 +16,30 @@
     <xs:element name="lemonade">
         <xs:complexType>
             <xs:sequence>
-                <xs:element ref="lemon:modsSection" minOccurs="0"/>
-                <xs:element ref="lemon:dcSection" minOccurs="0" />
-                <xs:element ref="lemon:vraSection" minOccurs="0" />
                 <xs:element name="song" type="xs:string" minOccurs="0"/>
                 <xs:element ref="lemon:extent" minOccurs="0"/>
                 <xs:element ref="lemon:identifier" minOccurs="1"/>
+                <xs:element ref="lemon:modsSection" minOccurs="0"/>
+                <xs:element ref="lemon:dcSection" minOccurs="0" />
+                <xs:element ref="lemon:vraSection" minOccurs="0" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:element name="extent">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="extentType" type="xs:string" minOccurs="1"/>
+                <xs:element name="extentValue" type="xs:string" minOccurs="1"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:element name="identifier">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="identifierType" type="xs:string" minOccurs="1"/>
+                <xs:element name="identifierValue" type="xs:string" minOccurs="1"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>
@@ -50,24 +68,6 @@
                 <xs:element ref="vra:work" minOccurs="0"/>
                 <xs:element ref="vra:image" minOccurs="0"/>
                 <xs:element ref="vra:collection" minOccurs="0"/>
-            </xs:sequence>
-        </xs:complexType>
-    </xs:element>
-    
-    <xs:element name="extent">
-        <xs:complexType>
-            <xs:sequence>
-                <xs:element name="extentType" type="xs:string" minOccurs="1"/>
-                <xs:element name="extentValue" type="xs:string" minOccurs="1"/>
-            </xs:sequence>
-        </xs:complexType>
-    </xs:element>
-    
-    <xs:element name="identifier">
-        <xs:complexType>
-            <xs:sequence>
-                <xs:element name="identifierType" type="xs:string" minOccurs="1"/>
-                <xs:element name="identifierValue" type="xs:string" minOccurs="1"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>
