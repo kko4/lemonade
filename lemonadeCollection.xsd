@@ -26,24 +26,6 @@
         </xs:complexType>
     </xs:element>
     
-    <xs:element name="extent">
-        <xs:complexType>
-            <xs:sequence>
-                <xs:element name="extentType" type="xs:string" minOccurs="1"/>
-                <xs:element name="extentValue" type="xs:string" minOccurs="1"/>
-            </xs:sequence>
-        </xs:complexType>
-    </xs:element>
-    
-    <xs:element name="identifier">
-        <xs:complexType>
-            <xs:sequence>
-                <xs:element name="identifierType" type="xs:string" minOccurs="1"/>
-                <xs:element name="identifierValue" type="xs:string" minOccurs="1"/>
-            </xs:sequence>
-        </xs:complexType>
-    </xs:element>
-    
     <xs:element name="modsSection">
         <xs:complexType>
             <xs:sequence>
@@ -68,6 +50,24 @@
                 <xs:element ref="vra:work" minOccurs="0"/>
                 <xs:element ref="vra:image" minOccurs="0"/>
                 <xs:element ref="vra:collection" minOccurs="0"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:element name="extent">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="extentType" type="xs:string" minOccurs="1"/>
+                <xs:element name="extentValue" type="xs:string" minOccurs="1"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:element name="identifier">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="identifierType" type="xs:string" minOccurs="1"/>
+                <xs:element name="identifierValue" type="xs:string" minOccurs="1"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>
