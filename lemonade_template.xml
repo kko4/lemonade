@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lemonade xmlns="https://github.com/kko4/lemonade"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm"
+    xsi:schemaLocation="https://github.com/kko4/lemonade https://raw.githubusercontent.com/kko4/lemonade/master/lemonadeCollection.xsd">
+    <song></song>
+    <extent>
+        <extentType></extentType>
+        <extentValue></extentValue>
+    </extent>
+    <identifier>
+        <identifierType></identifierType>
+        <identifierValue></identifierValue>
+    </identifier>
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo></mods:titleInfo>
+        </mods:mods>
+    </modsSection>
+    <dcSection>
+        <dc:title></dc:title>
+    </dcSection>
+    <vraSection></vraSection>
+</lemonade>
