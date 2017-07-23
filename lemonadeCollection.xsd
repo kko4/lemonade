@@ -16,9 +16,9 @@
     <xs:element name="lemonade">
         <xs:complexType>
             <xs:sequence>
-                <xs:element name="song" type="xs:string" minOccurs="0"/>
-                <xs:element ref="lemon:extent" minOccurs="0"/>
-                <xs:element ref="lemon:identifier" minOccurs="1"/>
+                <xs:element name="song" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                <xs:element ref="lemon:extent" minOccurs="0" maxOccurs="unbounded"/>
+                <xs:element ref="lemon:identifier" minOccurs="1" maxOccurs="unbounded"/>
                 <xs:element ref="lemon:modsSection" minOccurs="0"/>
                 <xs:element ref="lemon:dcSection" minOccurs="0" />
                 <xs:element ref="lemon:vraSection" minOccurs="0" />
