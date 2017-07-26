@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lemonade xmlns="https://github.com/kko4/lemonade"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3" 
+    xsi:schemaLocation="https://github.com/kko4/lemonade https://raw.githubusercontent.com/kko4/lemonade/master/lemonadeCollection.xsd">
+    <albumRelation>Original Work</albumRelation>
+    <extent>
+        <extentType>Running Time</extentType>
+        <extentValue>1:05:55</extentValue>
+    </extent>
+    <identifier>
+        <identifierType>Collection</identifierType>
+        <identifierValue>lemonade.2</identifierValue>
+    </identifier>
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>Lemonade</mods:title>
+            </mods:titleInfo>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Beyonce</mods:namePart>
+                <mods:namePart type="date">1981-</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">sng</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Joseph, Kahlil</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">drt</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Shire, Warsan</mods:namePart>
+                <mods:namePart type="date">1988-</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">wam</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:originInfo eventType="publication">
+                <mods:dateIssued encoding="iso8601">2016-04-23</mods:dateIssued>
+                <mods:publisher>HBO</mods:publisher>
+                <mods:issuance>monographic</mods:issuance>
+            </mods:originInfo>
+            <mods:subject authority="lcsh">
+                <mods:topic>Adultery</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>African American women in popular culture</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Feminism</mods:topic>
+            </mods:subject>
+            <mods:genre authority="marcgt">videorecording</mods:genre>
+            <mods:abstract>This is the digital version of the film originally debuted on HBO on April 23, 2016.  Running 1:05:55, it is available for purchase alongside the album on music services including Tidal, Amazon Music, and iTunes.  The film, which introduced the concept of the “visual album,” is divided into 11 chapters which correspond with tracks from the album and include text by Warsan Shire. The credits list seven directors and seventeen producers.</mods:abstract>
+        </mods:mods>
+    </modsSection>
+    <dcSection>
+        <dc:type>MovingImage</dc:type>
+        <dc:format>TV Special</dc:format>
+        <dc:language>eng</dc:language>
+        <dc:rights>Copyright 2016</dc:rights>
+    </dcSection>
+</lemonade>
+
+
+
