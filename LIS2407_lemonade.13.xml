@@ -40,7 +40,7 @@
             <mods:originInfo eventType="publisher">
                 <mods:dateIssued encoding="iso8601">2011-12-29</mods:dateIssued>
                 <mods:place>
-                    <mods:placeTerm>London, UK</mods:placeTerm>
+                    <mods:placeTerm type="text">London, UK</mods:placeTerm>
                 </mods:place>
                 <mods:publisher>flipped eye publishing limited</mods:publisher>
                 <mods:issuance>monographic</mods:issuance>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lemonade xmlns="https://github.com/kko4/lemonade"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3"
+    xsi:schemaLocation="https://github.com/kko4/lemonade https://raw.githubusercontent.com/kko4/lemonade/master/lemonadeCollection.xsd">
+    <song>Hold Up</song>
+    <albumRelation>Inspiration</albumRelation>
+    <identifier>
+        <identifierType>Collection</identifierType>
+        <identifierValue>lemonade.14</identifierValue>
+    </identifier>
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>Ever is Over All</mods:title>
+            </mods:titleInfo>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Rist, Pipilotti</mods:namePart>
+                <mods:namePart type="date">1962-</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">art</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Guggisberg, Anders</mods:namePart>
+                <mods:namePart type="date">1966-</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">cmp</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:originInfo eventType="publisher">
+                <mods:dateIssued encoding="iso8601"></mods:dateIssued>
+                <mods:place>
+                    <mods:placeTerm type="text">New York, NY</mods:placeTerm>
+                </mods:place>
+                <mods:publisher>Museum of Modern Art</mods:publisher>
+                <mods:issuance>monographic</mods:issuance>
+            </mods:originInfo>
+            <mods:subject authority="lcsh">
+                <mods:topic>Projection Art</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Violence in women</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Anarchism in art</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Feminism in art</mods:topic>
+            </mods:subject>
+            <mods:genre authority="marcgt">art original</mods:genre>
+            <mods:abstract>Ever Is Over All envelops viewers in two slow-motion projections on adjacent walls. In one a roving camera focuses on red flowers in a field of lush vegetation. The spellbinding lull this imagery creates harmonizes with the projection to its left, which features a woman in sparkling ruby slippers promenading down a car-lined street. The fluidity of both scenes is disrupted when the woman violently smashes a row of car windshields with the long-stemmed flower she carries. As the vandal gains momentum with each gleeful strike of her wand, an approaching police officer smiles in approval, introducing comic tension into this whimsical and anarchistic scene.</mods:abstract>
+        </mods:mods>
+    </modsSection>
+    <dcSection>
+        <dc:type>MovingImage</dc:type>
+        <dc:format>Two-channel video with overlapping projections</dc:format>
+        <dc:language>eng</dc:language>
+        <dc:rights>Copyright 2017 Pipilotti Rist</dc:rights>
+    </dcSection>
+</lemonade>
+
