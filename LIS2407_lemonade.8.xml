@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lemonade xmlns="https://github.com/kko4/lemonade"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3" 
+    xsi:schemaLocation="https://github.com/kko4/lemonade https://raw.githubusercontent.com/kko4/lemonade/master/lemonadeCollection.xsd">
+    <albumRelation>Critique</albumRelation>
+    <identifier>
+        <identifierType>Collection</identifierType>
+        <identifierValue>lemonade.13</identifierValue>
+    </identifier>
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>bell hooks vs. Beyoncé</mods:title>
+                <mods:subTitle>What this feminist scholarly critique gets wrong about ‘Lemonade’ and liberation</mods:subTitle>
+            </mods:titleInfo>
+            <mods:name type="personal">
+                <mods:namePart>LaSha</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">aut</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:originInfo eventType="publication">
+                <mods:dateIssued encoding="iso8601">2016-05-17</mods:dateIssued>
+                <mods:place>
+                    <mods:placeTerm type="text">San Fransisco, CA</mods:placeTerm>
+                </mods:place>
+                <mods:publisher>Salon Media Group, Inc.</mods:publisher>
+                <mods:publisher>Salon.com</mods:publisher>
+                <mods:issuance>monographic</mods:issuance>
+            </mods:originInfo>
+            <mods:subject authority="lcsh">
+                <mods:topic>African American women in popular culture</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Violence in women in popular culture</mods:topic>
+            </mods:subject>
+            <mods:genre authority="marcgt">article</mods:genre>
+            <mods:abstract>LaSha criticizes one of Beyonce’s biggest critics: Dr. bell hooks. In the article, LaSha references a talk she attended by Dr. hooks, where Dr. hooks went as far as to say Beyonce’s influence makes her a “terrorist.” But LaSha argues that just because a feminist anthem is a commodity, doesn’t mean it is anti-feminist or immoral. This article highlights how everything Beyonce does is examined under a microscope and “hotly debated to polarizing results.”</mods:abstract>
+            <mods:relatedItem type="references">
+                <mods:titleInfo>
+                    <mods:title>Moving Beyond Pain</mods:title>
+                </mods:titleInfo>
+                <mods:name type="personal" authority="naf">
+                    <mods:namePart>hooks, bell</mods:namePart>
+                    <mods:namePart type="date">1952-</mods:namePart>
+                </mods:name>
+                <mods:identifier>lemonade.7</mods:identifier>
+            </mods:relatedItem>
+        </mods:mods>
+    </modsSection>
+    <dcSection>
+        <dc:type>Text</dc:type>
+        <dc:language>eng</dc:language>
+        <dc:rights>Copyright 2017 Salon Media Group</dc:rights>
+    </dcSection>
+</lemonade>
+
+
+

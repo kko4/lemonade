@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lemonade xmlns="https://github.com/kko4/lemonade"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3" 
+    xsi:schemaLocation="https://github.com/kko4/lemonade https://raw.githubusercontent.com/kko4/lemonade/master/lemonadeCollection.xsd">
+    <albumRelation>Critique</albumRelation>
+    <identifier>
+        <identifierType>Collection</identifierType>
+        <identifierValue>lemonade.7</identifierValue>
+    </identifier>
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>Moving Beyond Pain</mods:title>
+            </mods:titleInfo>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>hooks, bell</mods:namePart>
+                <mods:namePart type="date">1952-</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">aut</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:originInfo eventType="publication">
+                <mods:dateIssued encoding="iso8601">2016-05-09</mods:dateIssued>
+                <mods:place>
+                    <mods:placeTerm type="text">Berea, KY</mods:placeTerm>
+                    <mods:placeTerm type="text">Berea College</mods:placeTerm>
+                </mods:place>
+                <mods:publisher>the bell hooks Institute</mods:publisher>
+                <mods:issuance>monographic</mods:issuance>
+            </mods:originInfo>
+            <mods:subject authority="lcsh">
+                <mods:topic>African American women in popular culture</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Violence in women in popular culture</mods:topic>
+            </mods:subject>
+            <mods:genre authority="marcgt">essay</mods:genre>
+            <mods:abstract>In this essay, bell hooks praises how Lemonade has shifted the mainstream’s gaze toward black female bodies (though, possibly exploits them), but criticizes how Beyonce’s rage and destruction celebrate violence. Dr. hooks argues that some messages shine through, like making lemons into lemonade, but others wind up hurting women, specifically black women. It’s a well-rounded critique that started more conversations surrounding Lemonade’s impact.</mods:abstract>
+            <mods:relatedItem type="isReferencedBy">
+                <mods:titleInfo>
+                    <mods:title>bell hooks vs. Beyoncé</mods:title>
+                    <mods:subTitle>What this feminist scholarly critique gets wrong about ‘Lemonade’ and liberation</mods:subTitle>
+                </mods:titleInfo>
+                <mods:name type="personal">
+                    <mods:namePart>LaSha</mods:namePart>
+                </mods:name>
+                <mods:identifier>lemonade.8</mods:identifier>
+            </mods:relatedItem>
+        </mods:mods>
+    </modsSection>
+    <dcSection>
+        <dc:type>Text</dc:type>
+        <dc:language>eng</dc:language>
+        <dc:rights>Copyright 2016</dc:rights>
+    </dcSection>
+</lemonade>
+
+
+
