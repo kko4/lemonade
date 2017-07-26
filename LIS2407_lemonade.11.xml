@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lemonade xmlns="https://github.com/kko4/lemonade"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3" 
+    xsi:schemaLocation="https://github.com/kko4/lemonade https://raw.githubusercontent.com/kko4/lemonade/master/lemonadeCollection.xsd">
+    <albumRelation>Critique</albumRelation>
+    <extent>
+        <extentType>Page Range</extentType>
+        <extentValue>66-69</extentValue>
+    </extent>
+    <identifier>
+        <identifierType>Collection</identifierType>
+        <identifierValue>lemonade.11</identifierValue>
+    </identifier>
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>Beywatch</mods:title>
+                <mods:subTitle>Beyonce's Reformation</mods:subTitle>
+            </mods:titleInfo>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Als, Hilton</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">aut</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:originInfo eventType="publication">
+                <mods:dateIssued encoding="iso8601">2016-05-30</mods:dateIssued>
+                <mods:place>
+                    <mods:placeTerm type="text">New York, NY</mods:placeTerm>
+                </mods:place>
+                <mods:publisher>The New Yorker</mods:publisher>
+                <mods:publisher>Conde Nast</mods:publisher>
+                <mods:issuance>serial</mods:issuance>
+            </mods:originInfo>
+            <mods:subject authority="lcsh">
+                <mods:topic>Popular culture--United States</mods:topic>
+            </mods:subject>
+            <mods:genre authority="marcgt">review</mods:genre>
+            <mods:abstract>Music critic Hilton Als takes a look at Beyonce's Formation Tour and her album Lemonade, commenting on her evolution as an artist and the social and commercial effects of the album.</mods:abstract>
+        </mods:mods>
+    </modsSection>
+    <dcSection>
+        <dc:type>Text</dc:type>
+        <dc:format>Magazine</dc:format>
+        <dc:language>eng</dc:language>
+        <dc:rights>Copyright 2016 Conde Nast</dc:rights>
+    </dcSection>
+</lemonade>
+
+
+
