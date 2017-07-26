@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lemonade xmlns="https://github.com/kko4/lemonade"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3" 
+    xsi:schemaLocation="https://github.com/kko4/lemonade https://raw.githubusercontent.com/kko4/lemonade/master/lemonadeCollection.xsd">
+    <song>Sorry</song>
+    <albumRelation>Critique</albumRelation>
+    <identifier>
+        <identifierType>Collection</identifierType>
+        <identifierValue>lemonade.15</identifierValue>
+    </identifier>
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>The Wrath of the Beyhive</mods:title>
+                <mods:subTitle>Rachel Roy and Rachael Ray Sent Each Other Gifts to Get Through 'Becky with the Good Hair' Drama</mods:subTitle>
+            </mods:titleInfo>
+            <mods:name type="personal">
+                <mods:namePart>Le Vine, Lauren</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">aut</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:originInfo eventType="publication">
+                <mods:dateIssued encoding="iso8601">2016-05-12</mods:dateIssued>
+                <mods:place>
+                    <mods:placeTerm type="text">New York, NY</mods:placeTerm>
+                </mods:place>
+                <mods:publisher>Vanity Fair</mods:publisher>
+                <mods:publisher>Conde Nast</mods:publisher>
+                <mods:issuance>monographic</mods:issuance>
+            </mods:originInfo>
+            <mods:subject authority="lcsh">
+                <mods:topic>Popular Culture</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Fans (persons)</mods:topic>
+            </mods:subject>
+            <mods:genre authority="marcgt">article</mods:genre>
+            <mods:abstract>In Beyoncé's "Lemonade," the artist alluded to her husband Jay Z’s affair with ‘Becky with the Good Hair,” as mentioned in her song, “Sorry,” which started a fire online. Many people were accused of being “Becky,” including fashion designer Rachel Roy. In the mayhem, Beyoncé fans confused Roy for chef Rachael Ray and sent angry messages to her, as well. This article is a humorous account of the true impact Beyoncé has on her fans, which came into focus after the release of Lemonade.</mods:abstract>
+        </mods:mods>
+    </modsSection>
+    <dcSection>
+        <dc:type>Text</dc:type>
+        <dc:language>eng</dc:language>
+        <dc:rights>Copyright Conde Nast</dc:rights>
+    </dcSection>
+</lemonade>
+
+
+
