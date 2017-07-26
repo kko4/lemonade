@@ -37,7 +37,7 @@
                     <mods:roleTerm authority="marcrelator">aut</mods:roleTerm>
                 </mods:role>
             </mods:name>
-            <mods:originInfo eventType="publisher">
+            <mods:originInfo eventType="publication">
                 <mods:dateIssued encoding="iso8601">2011-12-29</mods:dateIssued>
                 <mods:place>
                     <mods:placeTerm type="text">London, UK</mods:placeTerm>

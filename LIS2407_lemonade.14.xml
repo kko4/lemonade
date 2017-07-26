@@ -29,8 +29,8 @@
                     <mods:roleTerm authority="marcrelator">cmp</mods:roleTerm>
                 </mods:role>
             </mods:name>
-            <mods:originInfo eventType="publisher">
-                <mods:dateIssued encoding="iso8601"></mods:dateIssued>
+            <mods:originInfo eventType="publication">
+                <mods:dateIssued>1997</mods:dateIssued>
                 <mods:place>
                     <mods:placeTerm type="text">New York, NY</mods:placeTerm>
                 </mods:place>
