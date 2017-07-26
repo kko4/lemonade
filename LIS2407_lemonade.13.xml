@@ -2,7 +2,7 @@
 <lemonade xmlns="https://github.com/kko4/lemonade"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
-    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm"
+    xmlns:mods="http://www.loc.gov/mods/v3" 
     xsi:schemaLocation="https://github.com/kko4/lemonade https://raw.githubusercontent.com/kko4/lemonade/master/lemonadeCollection.xsd">
     <albumRelation>Independent</albumRelation>
     <extent>
