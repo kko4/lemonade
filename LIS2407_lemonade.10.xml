@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lemonade xmlns="https://github.com/kko4/lemonade"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3"
+    xsi:schemaLocation="https://github.com/kko4/lemonade https://raw.githubusercontent.com/kko4/lemonade/master/lemonadeCollection.xsd">
+    <albumRelation>Critique</albumRelation>
+    <extent>
+        <extentType>Words</extentType>
+        <extentValue>816</extentValue>
+    </extent>
+    <identifier>
+        <identifierType>Collection</identifierType>
+        <identifierValue>lemonade.10</identifierValue>
+    </identifier>
+    <modsSection>
+        <mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+            <mods:titleInfo>
+                <mods:title>Beyonce's Lemonade is Black Woman Magic</mods:title>
+            </mods:titleInfo>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Tinsley, Omise'eke Natasha</mods:namePart>
+                <mods:namePart type="date">1971-</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">aut</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:originInfo eventType="publication">
+                <mods:dateIssued encoding="iso8601">2016-04-25</mods:dateIssued>
+                <mods:publisher>Time Inc.</mods:publisher>
+                <mods:issuance>monographic</mods:issuance>
+            </mods:originInfo>
+            <mods:subject authority="lcsh">
+                <mods:topic>Beyonce, 1981-</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>African American women in popular culture</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>African American women--Religious life.</mods:topic>
+            </mods:subject>
+            <mods:genre authority="marcgt">essay</mods:genre>
+        </mods:mods>
+    </modsSection>
+    <dcSection>
+        <dc:type>Text</dc:type>
+        <dc:format>Electronic</dc:format>
+        <dc:language>eng</dc:language>
+        <dc:rights>Copyright 2016 Time Inc.</dc:rights>
+    </dcSection>
+</lemonade>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lemonade xmlns="https://github.com/kko4/lemonade"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3"
+    xsi:schemaLocation="https://github.com/kko4/lemonade https://raw.githubusercontent.com/kko4/lemonade/master/lemonadeCollection.xsd">
+    <song>Formation</song>
+    <albumRelation>Critique</albumRelation>
+    <extent>
+        <extentType>Words</extentType>
+        <extentValue>1370</extentValue>
+    </extent>
+    <identifier>
+        <identifierType>Collection</identifierType>
+        <identifierValue>lemonade.9</identifierValue>
+    </identifier>
+    <modsSection>
+        <mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+            <mods:titleInfo>
+                <mods:title>On 'Jackson Five Nostrils,' Creole vs. 'Negro' and Beefing Over Beyonce's 'Formation'</mods:title>
+            </mods:titleInfo>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Blay, Yaba</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">aut</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:originInfo eventType="publication">
+                <mods:dateIssued encoding="iso8601">2016-02-08</mods:dateIssued>
+                <mods:publisher>Race Forward: The Center for Racial Justice Innovation</mods:publisher>
+                <mods:issuance>monographic</mods:issuance>
+            </mods:originInfo>
+            <mods:subject authority="lcsh">
+                <mods:topic>Beyonce, 1981-</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>African American women in popular culture</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Race in mass media.</mods:topic>
+            </mods:subject>
+            <mods:genre authority="marcgt">essay</mods:genre>
+            <mods:abstract>
+        As if to further prove how each word Beyoncé sings in Lemonade has been examined thoroughly by critics, Blay takes offense to the lyrics in “Formation,” the lead single on Lemonade. Blay discusses Beyoncé’s “spoken and unspoken statements about identity and skin-color politics.”
+    </mods:abstract>
+        </mods:mods>
+    </modsSection>
+    <dcSection>
+        <dc:type>Text</dc:type>
+        <dc:format>Electronic</dc:format>
+        <dc:language>eng</dc:language>
+        <dc:rights>Copyright 2016 Race Forward</dc:rights>
+    </dcSection>
+</lemonade>
