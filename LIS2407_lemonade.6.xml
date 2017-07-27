@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lemonade xmlns="https://github.com/kko4/lemonade"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3"
+    xsi:schemaLocation="https://github.com/kko4/lemonade https://raw.githubusercontent.com/kko4/lemonade/master/lemonadeCollection.xsd">
+    <albumRelation>Derivative Work</albumRelation>
+    <identifier>
+        <identifierType>Collection</identifierType>
+        <identifierValue>lemonade.6</identifierValue>
+    </identifier>
+    <modsSection>
+        <mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+            <mods:titleInfo>
+                <mods:title>Beyonce's 'Lemonade' and Information Resources</mods:title>
+            </mods:titleInfo>
+            <mods:name type="personal">
+                <mods:namePart>Ferretti, Jenny</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">com</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:originInfo eventType="publication">
+                <mods:dateIssued encoding="iso8601">2017-05-26</mods:dateIssued>
+                <mods:publisher>Maryland Institute College of Art</mods:publisher>
+                <mods:issuance>integrating resource</mods:issuance>
+            </mods:originInfo>
+            <mods:subject authority="lcsh">
+                <mods:topic>Beyonce, 1981-</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Black lives matter movement.</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>African-American literature and culture.</mods:topic>
+            </mods:subject>
+            <mods:genre authority="marcgt">web site</mods:genre>
+            <mods:abstract>
+        This online collection of resources relating to Lemonade was compiled by Jenny Ferretti, a librarian at the Maryland Institute College of Art Decker Library.  The guide is intended to “support further research into Beyoncé's literary, film, and history references in her visual album,” and also includes sections on Black Womanhood and Feminism, the Black Lives Matter movement, and Copyright Issues surrounding the work.  Ferretti created the guide after viewing the premiere of Lemonade on HBO, and it gained popularity among the librarian and Beyoncé fan communities on Twitter.  The accompanying hashtag is #libeyrianship.
+    </mods:abstract>
+        </mods:mods>
+    </modsSection>
+    <dcSection>
+        <dc:type>collection</dc:type>
+        <dc:format>website</dc:format>
+        <dc:language>eng</dc:language>
+        <dc:rights>Copyright 2017 Maryland Institute College of Art</dc:rights>
+    </dcSection>
+</lemonade>
