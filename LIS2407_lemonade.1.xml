@@ -55,7 +55,6 @@
                     <mods:roleTerm authority="marcrelator">sng</mods:roleTerm>
                 </mods:role>
             </mods:name>
-            <mods:typeOfResource>sound recording-musical</mods:typeOfResource>
             <mods:originInfo eventType="publication">
                 <mods:publisher>Columbia Records</mods:publisher>
                 <mods:publisher>Parkwood Entertainment</mods:publisher>
