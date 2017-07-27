@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lemonade xmlns="https://github.com/kko4/lemonade"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3"
+    xsi:schemaLocation="https://github.com/kko4/lemonade https://raw.githubusercontent.com/kko4/lemonade/master/lemonadeCollection.xsd">
+    <albumRelation>Original Work</albumRelation>
+    <extent>
+        <extentType>Running Time</extentType>
+        <extentValue>45:42</extentValue>
+    </extent>
+    <identifier>
+        <identifierType>Collection</identifierType>
+        <identifierValue>lemonade.1</identifierValue>
+    </identifier>
+    <modsSection>
+        <mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+            <mods:titleInfo>
+                <mods:title>Lemonade</mods:title>
+            </mods:titleInfo>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Beyonce</mods:namePart>
+                <mods:namePart type="date">1981-</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">sng</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>White, Jack</mods:namePart>
+                <mods:namePart type="date">1975-</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">sng</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Weeknd</mods:namePart>
+                <mods:namePart type="date">1990-</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">sng</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Blake, James</mods:namePart>
+                <mods:namePart type="date">1988-</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">sng</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Lamar, Kendrick</mods:namePart>
+                <mods:namePart type="date">1987-</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">sng</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:typeOfResource>sound recording-musical</mods:typeOfResource>
+            <mods:originInfo eventType="publication">
+                <mods:publisher>Columbia Records</mods:publisher>
+                <mods:publisher>Parkwood Entertainment</mods:publisher>
+                <mods:dateIssued encoding="iso8601">2016-04-23</mods:dateIssued>
+                <mods:issuance>monographic</mods:issuance>
+            </mods:originInfo>
+            <mods:physicalDescription>
+                <mods:extent>Sound Recording</mods:extent>
+            </mods:physicalDescription>
+            <mods:subject authority="lcsh">
+                <mods:topic>Popular music -- 2011-2020.</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Rhythm and blues music.</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Popular music.</mods:topic>
+            </mods:subject>
+            <mods:genre authority="marcgt">sound</mods:genre>
+            <mods:abstract>This is the complete digital audio version of the album, released for purchase on Tidal on April 24, 2016, and on Amazon Music and iTunes on April 25, 2016. The complete 12-track album runs 45:42 and costs $17.99. The purchase price also includes a digital copy of the film.  The album features vocals by James Blake, Kendrick Lamar, The Weeknd, and Jack White, as well as Beyoncé, and credits over fifty writers, producers, and contributors.</mods:abstract>
+        </mods:mods>
+    </modsSection>
+    <dcSection>
+        <dc:type>Sound</dc:type>
+        <dc:language>eng</dc:language>
+        <dc:rights>Copyright 2016</dc:rights>
+    </dcSection>
+</lemonade>
