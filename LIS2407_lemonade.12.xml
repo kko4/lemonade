@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lemonade xmlns="https://github.com/kko4/lemonade"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3"
+    xsi:schemaLocation="https://github.com/kko4/lemonade https://raw.githubusercontent.com/kko4/lemonade/master/lemonadeCollection.xsd">
+    <song>Formation</song>
+    <albumRelation>Original Work</albumRelation>
+    <identifier>
+        <identifierType>Collection</identifierType>
+        <identifierValue>lemonade.12</identifierValue>
+    </identifier>
+    <identifier>
+        <identifierType>Getty Images Editorial Number</identifierType>
+        <identifierValue>508986998</identifierValue>
+    </identifier>
+    <modsSection>
+        <mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+            <mods:titleInfo>
+                <mods:title>Pepsi Super Bowl 50 Halftime Show</mods:title>
+            </mods:titleInfo>
+            <mods:name type="personal">
+                <mods:namePart>How, Harry</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">pht</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:originInfo eventType="production">
+                <mods:dateIssued encoding="iso8601">2016-02-07</mods:dateIssued>
+                <mods:place>
+                    <mods:placeTerm>Santa Clara, California</mods:placeTerm>
+                </mods:place>
+                <mods:publisher>Getty Images</mods:publisher>
+                <mods:issuance>monographic</mods:issuance>
+            </mods:originInfo>
+            <mods:subject authority="lcsh">
+                <mods:topic>Beyonce, 1981-</mods:topic>
+            </mods:subject>
+            <mods:genre authority="marcgt">picture</mods:genre>
+            <mods:abstract>
+                This photograph shows Beyoncé and her dancers performing at the Super Bowl 50 Halftime Show.  The event marked the first performance of Lemonade’s lead single “Formation.”  It inspired widespread response, both critical and positive, due to the political commentary of the song’s lyrics, as well as the performance’s tribute to the Black Panther Party.
+            </mods:abstract>
+        </mods:mods>
+    </modsSection>
+    <dcSection>
+        <dc:type>Image</dc:type>
+        <dc:format>Digital</dc:format>
+        <dc:language>eng</dc:language>
+        <dc:rights>Getty Images Standard Editorial Rights</dc:rights>
+    </dcSection>
+</lemonade>
