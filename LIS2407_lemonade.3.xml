@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lemonade xmlns="https://github.com/kko4/lemonade"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3"
+    xsi:schemaLocation="https://github.com/kko4/lemonade https://raw.githubusercontent.com/kko4/lemonade/master/lemonadeCollection.xsd">
+    <albumRelation>Original Work</albumRelation>
+    <extent>
+        <extentType>Pages</extentType>
+        <extentValue>600</extentValue>
+    </extent>
+    <identifier>
+        <identifierType>Collection</identifierType>
+        <identifierValue>lemonade.3</identifierValue>
+    </identifier>
+    <modsSection>
+        <mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+            <mods:titleInfo>
+                <mods:title>How to Make Lemonade</mods:title>
+            </mods:titleInfo>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Beyonce</mods:namePart>
+                <mods:namePart type="date">1981-</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">aut</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Shire, Warsan</mods:namePart>
+                <mods:namePart type="date">1988-</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">ctb</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Dyson, Michael Eric</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">ctb</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:originInfo eventType="publication">
+                <mods:dateIssued encoding="iso8601">2017-01-01</mods:dateIssued>
+                <mods:publisher>Columbia Records, In.</mods:publisher>
+                <mods:issuance>monographic</mods:issuance>
+            </mods:originInfo>
+            <mods:subject authority="lcsh">
+                <mods:topic>Beyonce, 1981-</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>African American women in popular culture</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Popular music--2011-2020.</mods:topic>
+            </mods:subject>
+            <mods:genre authority="marcgt">book</mods:genre>
+            <mods:abstract>
+                This forthcoming book is only available as part of the How To Make Lemonade box set available on Beyoncé’s website. The set, which also includes a double LP vinyl copy of Lemonade, sells for $299.99. Each set is made-to-order, with a current estimated shipping date of summer 2017. The 600-page coffee table book features many photographs from the making of the album and film, as well as notes by Beyoncé, showing “the inspiration and themes behind some of the film’s most provocative and cryptic moments.” poetry by Warsan Shire, foreword by Dr. Michael Eric Dyson.
+            </mods:abstract>
+        </mods:mods>
+    </modsSection>
+    <dcSection>
+        <dc:type>Text</dc:type>
+        <dc:format>Print</dc:format>
+        <dc:language>eng</dc:language>
+        <dc:rights>Copyright 2017 Columbia Records, Inc.</dc:rights>
+    </dcSection>
+</lemonade>

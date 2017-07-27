@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lemonade xmlns="https://github.com/kko4/lemonade"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3"
+    xsi:schemaLocation="https://github.com/kko4/lemonade https://raw.githubusercontent.com/kko4/lemonade/master/lemonadeCollection.xsd">
+    <song>Love Drought</song>
+    <song>Sandcastles</song>
+    <albumRelation>Original Work</albumRelation>
+    <identifier>
+        <identifierType>Collection</identifierType>
+        <identifierValue>lemonade.5</identifierValue>
+    </identifier>
+    <modsSection>
+        <mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+            <mods:titleInfo>
+                <mods:title>59th Annual Grammy Awards Performance</mods:title>
+            </mods:titleInfo>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Beyonce</mods:namePart>
+                <mods:namePart type="date">1981-</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">sng</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:originInfo eventType="performance">
+                <mods:dateIssued encoding="iso8601">2017-02-12</mods:dateIssued>
+                <mods:place>
+                    <mods:placeTerm>Los Angles, California</mods:placeTerm>
+                </mods:place>
+                <mods:publisher>Columbia Broadcasting System, Inc.</mods:publisher>
+                <mods:issuance>monographic</mods:issuance>
+            </mods:originInfo>
+            <mods:subject authority="lcsh">
+                <mods:topic>Beyonce, 1981-</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Popular music--2011-2020.</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>African American Women -- Poetry</mods:topic>
+            </mods:subject>
+            <mods:abstract>
+                Equal parts music, theater and spoken word poetry, a golden-clad Beyoncé radiated during her medley of "Love Drought" and "Sandcastles," two songs from her Best Urban Contemporary Album-winning opus, Lemonade. The trance-inducing performance, which was themed around the celebration of motherhood, featured her own mother, Tina Knowles, and daughter, Blue Ivy Carter, and closed on a poignant note with the pregnant Beyoncé reciting a line from a Warsan Shire poem: "If we're going to heal, let it be glorious/1,000 girls raise their arms."
+    </mods:abstract>
+        </mods:mods>
+    </modsSection>
+    <dcSection>
+        <dc:type>Event</dc:type>
+        <dc:language>eng</dc:language>
+        <dc:rights>Copyright 2017 Columbia Broadcasting System, Inc.</dc:rights>
+    </dcSection>
+</lemonade>
